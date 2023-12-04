@@ -1,1 +1,1 @@
-# Calculator_JavaFX
+Simple Calculator implemented in JavaFX
